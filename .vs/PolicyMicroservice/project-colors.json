@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a6696abd-10b8-4a21-9e4f-f47d0a89e731": {
+      "ProjectGuid": "a6696abd-10b8-4a21-9e4f-f47d0a89e731",
+      "DisplayName": "PolicyMicroservice",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "zL5pU0yM3wTpuv1XVDUJ+/VCGnoUiTHLCcsU0LFuuVs=",
+  "Source": "PolicyMicroservice",
+  "BasePath": "_content/PolicyMicroservice",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
